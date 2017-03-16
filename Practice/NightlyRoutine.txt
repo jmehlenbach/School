@@ -1,0 +1,14 @@
+# The daily and nightly routine goes like this: Add as many questions as though important.
+# 1. What did I do today that I could improve on?
+# 2. What did I accomplish today that I can be proud of?
+# 3. One are the most important things that I need to be prepared for tomorrow?
+# 4. Is there anything you need to change, complete, or address?
+
+masterQuestionList = [" What did I do today that I could improve on?"
+						,"What did I accomplish today that I can be proud of?"
+						,"One are the most important things that I need to be prepared for tomorrow?"
+						,"Is there anything you need to change, complete, or address?"]
+						
+
+
+
