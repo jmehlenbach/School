@@ -3,6 +3,9 @@ MPI_Comm_rank to determine process ID number
 MPI_Comm_rank to find number of processes
 MPI_Reduce to perform reduction operation
 MPI_Finalize Shut down MPI
+MPI_Barrier to perform barrier synchronization
+MPI_Time to determine the time
+MPI_Wtick to find the accuracy of the time
 
 Compile the program
 -----
