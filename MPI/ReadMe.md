@@ -4,4 +4,4 @@ mpicc -O -o foo foo.c to compile the program
 
 Run the program
 -----
-mpirun -np <p> foo
+mpirun -np < p > foo
