@@ -1,3 +1,9 @@
+Connect to the machine
+
+jwmehlen@-X myth.ece.uvic.ca
+jwmehlen
+myth.ece.uvic.ca
+Arguments: -X
 MPI_Init, to initialize MPI  
 MPI_Comm_rank to determine process ID number
 MPI_Comm_rank to find number of processes
