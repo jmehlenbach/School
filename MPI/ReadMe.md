@@ -7,6 +7,7 @@ MPI_Barrier to perform barrier synchronization
 MPI_Time to determine the time
 MPI_Wtick to find the accuracy of the time
 
+
 Compile the program
 -----
 mpicc -O -o foo foo.c to compile the program
